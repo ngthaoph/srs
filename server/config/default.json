@@ -1,0 +1,8 @@
+{
+  "appEnv": "development",
+  "appPrivateKey": "defaultPrivateKey",
+  "db": {
+    "name": "srs",
+    "connectionString": "mongodb+srv://ngthaoph:4bKToQBDc3JwtD6y@srs.oia9w.mongodb.net/"
+  }
+}
